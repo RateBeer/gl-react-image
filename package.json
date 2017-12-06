@@ -42,6 +42,7 @@
   },
   "homepage": "https://github.com/gre/gl-react-image#readme",
   "dependencies": {
+    "prop-types": "15.6.0",
     "rect-clamp": "0.0.0",
     "rect-crop": "0.0.0"
   }
